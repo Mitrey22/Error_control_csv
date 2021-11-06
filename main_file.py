@@ -1,5 +1,5 @@
 import pandas as pd
-from funciones_actividad1 import *
+from function_file import *
 import operator
 import matplotlib.pyplot as plt
 import numpy as np
